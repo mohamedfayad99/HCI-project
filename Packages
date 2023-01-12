@@ -1,0 +1,6 @@
+must install this packges :
+  "pip install SpeechRecognition"
+  "pip install pipwin"
+  "pipwin install pyaudio"
+  "pip install pywhatkit"
+  "pip install pyttsx3"
